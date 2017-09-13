@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to Laravel GI Tagged
+                    Laravel
                 </div>
 
                 <div class="links">
